@@ -19,7 +19,7 @@
 
 &soc {
 	houou_batterydata: qcom,battery-data {
-		qcom,batt-id-range-pct = <17>;
+		qcom,batt-id-range-pct = <91>;
 		#include "fg-gen3-batterydata-houou-send-4245mv-2425mah.dtsi"
 		#include "fg-gen3-batterydata-houou-send-4297mv-2539mah.dtsi"
 		#include "fg-gen3-batterydata-houou-send-4335mv-2647mah.dtsi"
